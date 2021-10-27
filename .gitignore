@@ -1,0 +1,8 @@
+cypress/videos
+
+node_modules
+
+mochawesome-reporter
+index.json
+package.json
+.Ds_Store

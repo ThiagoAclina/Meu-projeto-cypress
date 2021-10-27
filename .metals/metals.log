@@ -1,0 +1,12 @@
+[0m2021.10.25 21:57:10 INFO  Started: Metals version 0.10.7 in workspace 'C:\Projetos\agilizei' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.25 21:57:13 INFO  time: initialize in 2.86s[0m
+[0m2021.10.25 21:57:13 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.25 21:57:13 WARN  no build tool detected in workspace 'C:\Projetos\agilizei'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.10.25 22:18:00 INFO  shutting down Metals[0m
+[0m2021.10.26 19:53:42 INFO  Started: Metals version 0.10.7 in workspace 'C:\Projetos\agilizei' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.26 19:53:45 INFO  time: initialize in 3.08s[0m
+[0m2021.10.26 19:53:51 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.26 19:53:51 WARN  no build tool detected in workspace 'C:\Projetos\agilizei'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+out. 26, 2021 8:11:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.10.26 20:37:21 INFO  shutting down Metals[0m

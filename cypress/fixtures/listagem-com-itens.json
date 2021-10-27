@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Thiago",
+        "lastName": "Alves",
+        "adress": "Maua",
+        "emailAdress": "Alves@Alves.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2006",
+        "selectMonths": "Janeiro",
+        "pwd": "Aluno@2021"
+    },
+    {
+        "firstName": "Marcos",
+        "lastName": "Ferreira",
+        "adress": "Maua",
+        "emailAdress": "Marcos@Alves.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2006",
+        "selectMonths": "Janeiro",
+        "pwd": "Aluno@2021"
+    }
+]
